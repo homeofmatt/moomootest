@@ -1,4 +1,4 @@
-require "./moomootest.rb"
+require "moomootest"
 
 class TestAssertions < MooMooTest
   def test_assert

@@ -1,5 +1,4 @@
-# TODO: Randomize tests across classes/methods
-#       Create more assertions based on testing needs
+# TODO: Create more assertions based on testing needs
 #       Use 'test "some test description here" do/assert/end' format 
 
 module Assertions
